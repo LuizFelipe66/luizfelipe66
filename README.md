@@ -1,5 +1,5 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/LuizFelipe66/102bfe9c4110b94c735c4571bb3be579/raw/dff87506c0347df70d5c1cfa2e394ab835e0d60f/githubcard.svg"/>
-<h1 align="left"><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> Hello , I'm Luiz Felipe</h1>
+<h1 align="left"> Hello , I'm Luiz Felipe</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luizfelipe66&color=red" alt="Profile views" /> </p>
 
 - 🔥 Junior Web Developer
